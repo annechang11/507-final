@@ -3,7 +3,7 @@
 Project name: Tomato Recommender
 
 Description:
-This project uses a tree data structure to build an interactive recommendation system. The system asks the user what color and size of tomatoes they like, and recommend a corresponding tomato variety to the user. Information provided includes the variety's name, shape, days to maturity, and a link to an image of the tomato. The user can ask for recommendation again and agin until they quit the system.
+This project uses a tree data structure to build an interactive recommendation system. The system asks the user what color and size of tomatoes they like, and recommends a corresponding tomato variety to the user. Information provided includes the variety's name, shape, days to maturity, and a link to an image of the tomato. The user can ask for recommendations again and again until they quit the system.
 
 Package requirement:
 Selenium (for scraping, but you can just load the data from the pre-processed json file.)
