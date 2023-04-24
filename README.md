@@ -3,7 +3,7 @@
 Project name: Tomato Recommender
 
 Description:
-The goal of this project is to build an interactive system that recommend users a tomato variety to grow based on user's preference. The system asks the user what color and size of tomatoes they like, and recommend a corresponding tomato variety. Information provided includes the variety's name, shape, days to maturity, and a link to an image of the tomato. The user can ask for recommendation again and agin until they quit the system.
+This project uses a tree data structure to build an interactive recommendation system. The system asks the user what color and size of tomatoes they like, and recommend a corresponding tomato variety to the user. Information provided includes the variety's name, shape, days to maturity, and a link to an image of the tomato. The user can ask for recommendation again and agin until they quit the system.
 
 Package requirement:
 Selenium (for scraping, but you can just load the data from the pre-processed json file.)
